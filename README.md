@@ -6,7 +6,7 @@ Hello, welcome to Igor Shefer's submission for  **WWDC23 Swift Student Challe
 ## Content
 Here I will tell you about how I approached development, how I created media content of app to represent the epochs
 
-### Design 
+#### Design 
 While designing the app, I faced the challenge of making it age-appropriate while keeping the UI elements familiar to users to avoid confusion.
 
 After studying various design works on Dribbble, I decided to implement Glassmorphism, a design pattern that allowed me to tweak the color style and fonts of the app without compromising the user experience. And the result? Simply stunning!
@@ -15,14 +15,14 @@ With Glassmorphism, not only does the color gradient on the background change as
 
 As someone who doesn't consider themselves a full-fledged designer, I am proud of how it turned out. Although I would have liked to work on the pricing of fonts, unfortunately, time constraints didn't allow for it. Nonetheless, I believe the overall design of the app is visually appealing and enhances the user's experience as they journey through different time epochs.
 
-### Soundtrack
+#### Soundtrack
 As I worked on the soundtrack for this App, my main goal was to capture the atmosphere of each era using 8D sound technology and music from those times.
 
 When it came to selecting the music, I initially thought about using AI-generated music, but I found a limitation of 5 seconds per recording. So I had to search for free music and sounds on other services, which fortunately, I was able to do. However, finding the right music to represent the 80s proved to be a challenge. None of the songs I listened to seemed to capture the essence of that era.
 
 Then, I remembered the enigmatic song "Blind the Wind", which was recorded in the 80s and had an unmistakable vibe of that time. The best part was that it had no known copyright owner. I downloaded the audio track from YouTube, removed the video, mixed it with the sound of a tape, and converted it to 8D. Voila! The perfect music for the 80s was ready.
 
-### Interactive and historical items in 3D
+#### Interactive and historical items in 3D
 
 When it came to representing the different eras in the Time Machine Playground App, I knew that objects from those years would be key in capturing the essence of each era. That's why I turned to SceneKit, ARKit, and 3D models frameworks.
 
