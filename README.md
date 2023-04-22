@@ -3,7 +3,7 @@
 ## Introduction
 Hello, welcome to Igor Shefer's submission for  **WWDC23 Swift Student Challenge!** Explore the 60s, 80s, and 2000s with Time Machine App through immersive 8D audio soundtracks, interactive 3D models of historical items, and an engaging storyline. Groove to iconic tunes, examine artifacts, and follow the lives of Martin Michaels and Paul Allen.
 
-![enter image description here](https://lh3.googleusercontent.com/I9PKEjXrbU764v94UHFwin1Z_CHczcc3BtU999TPCBWR4ui0cH6wfbABSLSdkV850ibTNeKfqrr52K4fa256gWF9TQWkd0dE7g8UNdt5dE-qPafkkm9xtXB0_STDJv_QzBQYqC9gXWnT6FBd_dzALJHPKgPi6UL7WDS-vGgjCaJ9gmYzpiUpWIcfz5ZuFnle6ROPKfeFnJvNXlZuID6STS9ZVk3G4vapV6pEMfInlXt0D3C0wEjag0FBNh32kXxn1ZPsSYHNgbO2RQABe7nhSh5-Z_VkNodiOfWzOOGnscpG6tEOFytE-UmvC4uXkYw4UMJzNqyurgmZ1fYJx_YzFhxaMhThMkTXB1tIif1jXLT-jy5ZgFkEpwTTI2NsT6qAHIH75ugS-TOrFcySKQ_8JS6Ajk0dEJ4LkKRPZf9XWkkqOg81TKBF30s7FKrZb2L8l_9E9lHhD0DGLwvm6cF9yLIxCyzrktcNpU6m8RpC3FAukBzt9uFx4-dSn-dvp6O6FtVJOH889TItfAqT1_HXPrJterjegGs_UiuZJH1CAhgffDYif0rkrg-eGDKolNw68AeFGkSoa42R7tf3K3meXfGm0MkWm8qTfDKKzsAAlPNtCZzs5hJLd6KDUh0JXoUIzQuTpKYF2K4oklOW7zNyokuExvXolv8Xmd1StnNDi0miPkTBIJx5bmo4BIE2HYw2ZKwhD4KAbzrunHETGYvz7fmnrB4wCmst-zJu62nFk3zfCsEzwIn0_6DgrCQa3y4N4hJ54U_ul034gLOsrCsfvYEJHTz3pPzTR_c83eYFAPV_8x_inJSzkEgBFOl8QqGHStGhWJlWaLKqPv0kzJfBdSyELq4DxMbQkMKIuPK0mpKTFogKAjmMhienjfyZpG6ukhPGNCR6Y91HfbwXKOW9BDiMkVJQOzRJmTcL08tT7hBK8EzmN6VpXQWvnMSAD71T2ieC7zWHh89zE24eog=w1080-h1080-s-no?authuser=0)
+![enter image description here](https://lh3.googleusercontent.com/IOkINwO2ihXmg7Bn1G9d5QxSu6TlK4Sj-NX_SbweNlCL6lknMH3bV7oZqNQ0PpP360dyijbGka0rWny7nWlyryeM-_cqTmRvDRj3vblummTNeF2czQWIujGWGQReYCJRsmk9EtOBVZcj0tMRdHImP879vruZ4IQDTxXP27uWu857LSa7McpeuxsiOoZjgCTgl3E58k6bdxZPF6a5Ft4SF3aehs5GFBdvaRnN8UWTcm6Z_VRLKksNW0eneh3FrkwI4qYoEJHTbWrG0T_xCQkrcdL02HwCJNBY4XUkkZBc0vGcgmfIYhwqv14_mrEluLfJQO-1kGxm5sA3bfCKXCnzo2EJDu_JSsPoZIjLnj9LfZBhIVEJmUZ6jMjTudkSXqe-Cj9NsaO6eAt_ZQUfYUL63H-1fQ4Khy66fZDya75eo7owWqgk6AvP2U3UaQRuFqvD-ak4VYA92ehzWLNadCLwNcjoBmtQMTMaAq5pQvQz7hmsKkHzPads1C4WFcRsyppVmiHkroU4ZAefwMlTlZB7A2_Bm0eP5oQQ7LIwQ48NHU_nbMt77yCtPl35bxh0LBoHUC0xGbJKSC4FhYe9aFBYPYdViF_MLcAEeUYvYv6su9EB3OHbv300ClR_AbumBZKFu5tVwm8YzVjIRq4CcJJCB4uukke-cGk9O3BS8DUs_Ldf-aV_SNYGenEbxrpOttD9Te-rXvwIOVGAw_DaeqblUgfIokpdcw4Q529qpLgXhw5aNU1g0D__vlo09l6Leq3ZOwkon-baPofzQJESkuvdxlG4az_j01ujW3yEeHVo2iWwdtjrc-MbfxqCjncK-72FIFE_MqIy_ee2BOy14ePQit_LPDUwwCX6wGGuAdDkze-_Hd10fIXnQ52gnYqIPLN65KOPl272R9O8j5jsRI2XQnWPgaRMDh_gjzl8Bpq_VDnfDn0DWwqt174VgIZKfUbaFvuSDDZSu1kqVcnlZA=w1452-h1452-s-no?authuser=0)
 
 ## Content
 Here I will tell you about how I approached development, how I created media content of app to represent the epochs
@@ -24,8 +24,7 @@ When it came to selecting the music, I initially thought about using AI-generate
 
 Then, I remembered the enigmatic song "Blind the Wind", which was recorded in the 80s and had an unmistakable vibe of that time. The best part was that it had no known copyright owner. I downloaded the audio track from YouTube, removed the video, mixed it with the sound of a tape, and converted it to 8D. Voila! The perfect music for the 80s was ready.
 
-![MusicPlayer](https://user-images.githubusercontent.com/43014903/233784678-27ec0077-70ac-4bb7-822f-e10eafe82545.gif)
-
+![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/43014903/233785405-94f1e80f-5ebb-47bd-8a6d-62f081a345ca.gif)
 
 ### Interactive and historical items in 3D
 
@@ -34,3 +33,5 @@ When it came to representing the different eras in the Time Machine Playground A
 I decided to showcase three items from each era, each representing a different sphere. The first item represents technology, the second represents music, and the third represents interior objects (except for 2008). Finding 3D models was surprisingly easy, thanks to the wonderful Sketchfab platform. It allowed me to easily find high-quality 3D models that were free and allowed for use.
 
 While some models may have been heavy in terms of file size, it was worth it. The app now boasts stunning three-dimensional objects from different time epochs that users can closely examine and appreciate. These 3D models truly bring the essence of each era to life in the app
+
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/43014903/233785257-38c9ef4a-4641-49ad-8375-f3c0c3d27ff9.gif)
