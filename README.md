@@ -24,7 +24,9 @@ When it came to selecting the music, I initially thought about using AI-generate
 
 Then, I remembered the enigmatic song "Blind the Wind", which was recorded in the 80s and had an unmistakable vibe of that time. The best part was that it had no known copyright owner. I downloaded the audio track from YouTube, removed the video, mixed it with the sound of a tape, and converted it to 8D. Voila! The perfect music for the 80s was ready.
 
-![enter image description here](https://lh3.googleusercontent.com/BX1n6BuL4FTmki_4IqFtoPF0dm5IzWCH4IieJ-2tD1gETGOl-1wTVCjy-JsGw4hkCQsY5oqq6stJrpnkrCuyiRmW5VLgz7MJCBj22rYx5QHBKD1gn50bLV86KbTBQACb1QMo4kbDdIVzbbOR9M5LB1Kum86RrowxO_ONjGKJ_ZWR8vvC_0MMYdoknd9idhabdki3MIUbMuSP6AQU0Vz0q6Ygdth2UgYt5lfVFFy7JDgOhPuuJzNyhYvOC7332a5m0jmDza3kJFMdtEno_Fg7FtHtPcAQdzRszBISvTw0ZOhafbR4djX3douSb7Dx60PkLiAZ4zWIjMvvGMyOWbUXkG0zUqSLhunmMJjSXiVm9KeYrd3UfL9WklZd4R9qa_f4TKxvS9U39dGxQiDm3crP_6_DyKacGDLs0O6PjCHkjpUvQQYUErLFRjtM98ZSKTn9b975maxKpuuOps2w61xy1f1b6x-GhC5kA70xi5qIOmpdNO-3QeOToYIO1D6FDH5By3_isStw5SXYKQHIJxzPU5PhBkwtKo6Jzf_WVbLDXKPUmXpKr-z-zAB6XQov3Gi4mkOd4wZwehE8P_Xu7REbL_z-5rXMFHSCbCE0haYcLn4cjePjHncxacTJAQwBI8wBb19_gY38EltZrZAZMqpS7q96Ox5mLZe4OtXjsL4AxPpWXgAD4Q1xIcZu2_5kq7ahHFO_3wetN8-AZ0naxVsFltv-wPDW6rW2ohVg9R9ygkmnRzHpXii2b3sNUG4NPb4dCho5jaj0855ZYCW0c1b9YE5hh58wOqSR9_jT5isisNvAA1lmMi8_qaf0uTuITFAMWNJR-kxbff24MfIB9ueU-xhqJGx2v5HrTPuqKRrgS5H9VcWzqGKek6ZVbGdeThTZzo7Gdu4dY2Czg1WyLywSswVjARoaaiYl6VXBRVVKVd12W-0mfHzXuulV4qV8G8sOlfyzzhSdPAg5_wMz6A=w72-h52-k-no?authuser=0)
+![MusicPlayer](https://user-images.githubusercontent.com/43014903/233784678-27ec0077-70ac-4bb7-822f-e10eafe82545.gif)
+
+
 ### Interactive and historical items in 3D
 
 When it came to representing the different eras in the Time Machine Playground App, I knew that objects from those years would be key in capturing the essence of each era. That's why I turned to SceneKit, ARKit, and 3D models frameworks.
