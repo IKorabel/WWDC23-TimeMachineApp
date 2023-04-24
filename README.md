@@ -5,6 +5,11 @@
 ## Introduction
 Hello, welcome to Igor Shefer's submission for  **WWDC23 Swift Student Challenge!** Explore the 60s, 80s, and 2000s with Time Machine App through immersive 8D audio soundtracks, interactive 3D models of historical items, and an engaging storyline. Groove to iconic tunes, examine artifacts, and follow the lives of Martin Michaels and Paul Allen.
 
+## App Demo
+[Click to watch](https://www.youtube.com/watch?v=uYmebXj_SmY)
+
+[![IMAGE_ALT](https://img.youtube.com/vi/uYmebXj_SmY/0.jpg)](https://www.youtube.com/watch?v=uYmebXj_SmY)
+
 ## Content
 Here I will tell you about how I approached development, how I created media content of app to represent the epochs
 
