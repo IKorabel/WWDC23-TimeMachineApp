@@ -1,5 +1,5 @@
 
-![GitHubPromo](https://user-images.githubusercontent.com/43014903/234089706-0378d511-9eb8-4d38-a48f-7701e99def47.jpg, width = "85%")
+![GitHubPromo](https://user-images.githubusercontent.com/43014903/234089880-6fb4634e-5593-4324-b648-cf32d42ddfe7.jpg)
 
 
 ## Introduction
